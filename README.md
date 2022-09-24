@@ -20,8 +20,9 @@ New colour added:<br>
 ![image](https://user-images.githubusercontent.com/88579983/192105946-d52463e3-5641-4cf4-9622-712ad39ad754.png)
 
 
-|----------------------|
-|Made By | Inspired by |
-|----------------------|
-|[Natrix](https://github.com/natrixdev) | [Codepen.io](https://codepen.io/Lachlandawson/pen/abmdyV) |
-|----------------------|
+<br>
+
+| Made by                                  | Inspired by                              |
+| ---------------------------------------- | ---------------------------------------- |
+| [Natrix](https://github.com/natrixdev)   | [Codepen.io](https://codepen.io/Lachlandawson/pen/abmdyV)|
+| Developer, owner of this repo            | Best place to build, test, and discover front-end code.  |
