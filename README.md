@@ -21,9 +21,9 @@ New colour added:<br>
 
 
 <br>
-<div align="center">
+
 | Made by                                  | Inspired by                              |
 | ---------------------------------------- | ---------------------------------------- |
 | [Natrix](https://github.com/natrixdev)   | [Codepen.io](https://codepen.io/Lachlandawson/pen/abmdyV)|
 | Developer, owner of this repo            | Best place to build, test, and discover front-end code.  |
-</div>
+
