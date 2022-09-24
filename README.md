@@ -15,7 +15,7 @@ This app offers:
 
 # 3 & 4 - Erase the board and add new colours: 
 ![image](https://user-images.githubusercontent.com/88579983/192105911-d3cdacb9-2e1a-4853-bc82-11faf1c897af.png)
-![image](https://user-images.githubusercontent.com/88579983/192105928-352690a9-4d57-4bbb-b047-f5f77cc809dc.png)
-New colour added:
+![image](https://user-images.githubusercontent.com/88579983/192105928-352690a9-4d57-4bbb-b047-f5f77cc809dc.png)<br>
+New colour added:<br>
 ![image](https://user-images.githubusercontent.com/88579983/192105946-d52463e3-5641-4cf4-9622-712ad39ad754.png)
 
